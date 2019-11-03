@@ -5,5 +5,3 @@ def my_each(collection)
     counter += 1
   end
 end
-
-#my_each(collection) { |i| puts i}
